@@ -34,8 +34,13 @@
 <br/>
 
 ## 📊 GitHub Stats 
- <img src="https://github-readme-stats.vercel.app/api?username=Shravani-Korde&show_icons=true&theme=buefy&hide_border=true" alt="GitHub Stats" width="48%" height="195"/> 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravani-Korde&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" width="48%" height="195" /> 
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Shravani-Korde&show_icons=true&theme=buefy&hide_border=true" alt="GitHub Stats" width="48%" height="195"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravani-Korde&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" width="48%" height="195"/> 
+
+</div>
+
 
 ## 📫 Connect with Me  
   <a href="www.linkedin.com/in/shravani-korde-0b6980291">
