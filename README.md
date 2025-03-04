@@ -43,7 +43,7 @@
 
 
 ## 📫 Connect with Me  
-  <a href="www.linkedin.com/in/shravani-korde-0b6980291">
+  <a href="https://www.linkedin.com/in/shravani-korde-0b6980291">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
 
