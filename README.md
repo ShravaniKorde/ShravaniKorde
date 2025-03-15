@@ -6,7 +6,7 @@
 ## 👨‍🎓 About Me  
 - 🎓 **Third year Computer Engineering student**  
 - 💡 Passionate about **Software Development**  
-- 🚀 **Learning, growing, and exploring new technologies**  
+- 🚀 **Learning, growing and exploring new technologies**  
 
 ## 🛠️ Languages   
 <p align="left">  
