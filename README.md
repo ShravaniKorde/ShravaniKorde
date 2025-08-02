@@ -39,11 +39,11 @@
   <img src="https://komarev.com/ghpvc/?username=ShravaniKorde&color=4682b4" alt="Profile Views" height="30"/>
 </p>
 
-
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShravaniKorde&show_icons=true&theme=buefy&hide_border=true" alt="GitHub Stats" width="48%" height="195"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShravaniKorde&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" width="48%" height="195"/> 
-
 </div>
+
 
 
 
