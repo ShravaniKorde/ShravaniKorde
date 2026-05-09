@@ -86,12 +86,19 @@
   />
 </p>
 
-<h2 align="center">
- 📊 GitHub Stats
-</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShravaniKorde&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=8" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShravaniKorde&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=7B2DF5&currStreakLabel=00F7FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=C9D1D9&sideLabels=C9D1D9" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShravaniKorde&theme=tokyonight&hide_border=true&layout=donut&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" width="48.5%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShravaniKorde&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=7B2DF5&currStreakLabel=00F7FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=C9D1D9&sideLabels=C9D1D9" width="48.5%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Updating-000080?style=for-the-badge&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=ShravaniKorde&style=for-the-badge&color=000080&label=PROFILE+VIEWS" />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="100%" style="opacity: 0.8;" />
 </p>
 
 <p align="center">
