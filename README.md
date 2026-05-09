@@ -16,36 +16,36 @@
   />
 </div>
 <br/>
-<h2>
-  <span>👩‍💻 About Me</span>
-</h2>
+<br/>
+
+<table border="0">
+  <tr>
+    <td width="55%" style="vertical-align: top; border: none;">
+      <h2 style="color: #4facfe; margin-top: 0;">👩‍💻 About Me</h2>
+    <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&lines=Full+Stack+Developer;Building+scalable+systems;Problem+Solver" />
+</div>
 <br>
-
-<div style="height: 20px;"></div>
-
-<img src="https://raw.githubusercontent.com/ShravaniKorde/ShravaniKorde/main/assets/coding-gif.gif" align="right" width="310" style="border-radius: 16px; border: 2px solid #4facfe; box-shadow: 0 0 25px rgba(79,172,254,0.2); margin-left: 15px; margin-top: 10px;" />
-
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+real+world+systems;Learning+something+new+everyday;Problem+Solver" />
-
-<br>
-<br>
+   <div style="color: #ffffff; font-size: 1.05em; line-height: 1.5; margin-top: 10px;">
+     
+  ✨ <b>Engineering Student</b> building scalable systems. <br><br>
   
-<ul style="color: #ffffff; font-size: 1.05em; line-height: 2.4; list-style: none; padding-left: 0;">
-    
-  ✨ <b>Engineering Student</b> building scalable systems.
+  💻 Focused on <b>Clean & User-friendly</b> experiences. <br><br>
   
-  💻 Focused on <b>Clean & User-friendly</b> experiences.
+  🚀 Solving <b>Real-world Problems</b> through code. <br><br>
   
-  🚀 Solving <b>Real-world Problems</b> through code.
-  
-  📚 Constantly <b>Learning</b> new technologies.
+  📚 Constantly <b>Learning</b> new technologies. <br><br>
   
   ⚡ Interested in <b>Backend & System Design</b>.
-  
-</ul>
+</div>
+    </td>
+    <td width="45%" style="vertical-align: top; border: none;" align="center">
+      <img src="https://raw.githubusercontent.com/ShravaniKorde/ShravaniKorde/main/assets/coding-gif.gif" width="100%" style="border-radius: 16px; border: 2px solid #4facfe; display: block;" />
+    </td>
+  </tr>
+</table>
 
-
-
+<br/>
 
 <br clear="right"/>
 
