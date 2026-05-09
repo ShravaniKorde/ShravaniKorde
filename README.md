@@ -94,15 +94,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Updating-000080?style=for-the-badge&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=ShravaniKorde&style=for-the-badge&color=000080&label=PROFILE+VIEWS" />
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="100%" style="opacity: 0.8;" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Updating-000080?style=for-the-badge&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=ShravaniKorde&style=for-the-badge&color=000080&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
